@@ -1,0 +1,11 @@
+H  First:^ e 
+K  First:^ d 
+L  First:e 
+M  First:^ b d 
+S  First:^ a b d e 
+
+H  Follow: # f o 
+K  Follow: # e o 
+L  Follow: # a b d e o 
+M  Follow: # e o 
+S  Follow: # o 
